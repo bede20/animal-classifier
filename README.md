@@ -8,7 +8,7 @@ Model klasifikasi gambar hewan (cat, dog, wild) menggunakan CNN.
 - Data augmentation
 - Dropout & BatchNorm
 - Early stopping
-- Akurasi ~95%
+- Akurasi ~96%
 
 ## Cara menjalankan:
 Buka file notebook dan jalankan semua cell.
